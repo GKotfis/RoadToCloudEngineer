@@ -13,3 +13,6 @@ https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg
 
 ## Architecture:
 https://azure.microsoft.com/en-gb/solutions/architecture/
+
+## Azure
+https://github.com/MicrosoftLearning
